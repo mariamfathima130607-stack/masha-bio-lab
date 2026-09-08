@@ -1,0 +1,10 @@
+.env
+*.env
+!.env.example
+backend/venv/
+**/__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+backend/data/*_engineered.csv
+backend/models/*_rf_ic50.pkl
