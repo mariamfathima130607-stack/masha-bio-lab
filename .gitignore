@@ -6,5 +6,3 @@ backend/venv/
 *.pyc
 frontend/node_modules/
 frontend/dist/
-backend/data/*_engineered.csv
-backend/models/*_rf_ic50.pkl

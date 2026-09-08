@@ -1,0 +1,2 @@
+backend/data/*_engineered.csv filter=lfs diff=lfs merge=lfs -text
+backend/models/*_rf_ic50.pkl filter=lfs diff=lfs merge=lfs -text
